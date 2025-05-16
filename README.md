@@ -9,10 +9,3 @@ This is an interactive Streamlit dashboard for exploring and visualizing healthc
 - Visualize data using bar plots, box plots, scatter plots, and histograms
 - Download filtered data as CSV
 
-## Getting Started
-
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/your-username/healthcare-risk-dashboard.git
-cd healthcare-risk-dashboard
